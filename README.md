@@ -10,7 +10,7 @@ This project provides a comprehensive analysis of business sales data using Tabl
 
 ## 👩‍💻 What I Did
 
-- Identified and calculated key KPIs (Sales, Profit, Growth)
+- Identified and calculated key KPIs
 - Designed an interactive Tableau dashboard using filters and slicers
 - Implemented time-series analysis to observe trends
 - Added summary cards for overall totals and performance snapshots
@@ -40,8 +40,5 @@ This project provides a comprehensive analysis of business sales data using Tabl
 
 1. Open `Business Sales Analysis.twbx` in Tableau.
 2. Interact with filters and slicers to explore different aspects of the data.
-3. Use the navigation (if present) to move across sections of the dashboard.
 
-## 📬 Feedback
-
-Feel free to fork this repo and contribute or open issues if you have suggestions or improvements!
+### Made by Shruti Shivankar
